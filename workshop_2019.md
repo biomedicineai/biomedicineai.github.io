@@ -9,7 +9,6 @@ aside: false
 
 ### Agenda
 
-<small>
 *  9:30 a.m. Breakfast/Refreshment
 
 * 10:00 a.m. Opening remarks
@@ -49,7 +48,6 @@ aside: false
 *  4:00 p.m  Summarization Session
 
 *  5:30 p.m. Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098 
-</small>
 
 ## Heading 2
 
