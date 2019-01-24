@@ -14,9 +14,9 @@ aside: false
 > <small>10:00 a.m. Opening remarks - Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>
 * 10:15 a.m. CHSP Challeneges 
 * 10:25 a.m. Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations
-* 10:35 a.m. Data sharing or Model Sharing?
-* 10:45 a.m. A Framework for Similarity-based Predictions
-* 10:55 a.m. Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis
+| 10:35 a.m. Data sharing or Model Sharing? |
+| 10:45 a.m. A Framework for Similarity-based Predictions |
+| 10:55 a.m. Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis |
 
 * 11:05 a.m. Coffee Break
 
