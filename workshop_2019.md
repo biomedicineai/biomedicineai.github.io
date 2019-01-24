@@ -31,9 +31,9 @@ aside: false
 |<small>12:20 p.m.</small>|<small>Lunch Break</small>|
 
 |<small> 1:30 p.m.</small>|<small>Practical Applications of Homomorphic Encryption</small>|
-*  1:40 p.m. An Information-Theoretic Approach to Data Clustering
-*  1:50 p.m. Literature, Ontology, Gene Network 
-*  2:00 p.m. Discovering Underlying Concepts with Tensor Factorization
+*.12:40 p.m. An Information-Theoretic Approach to Data Clustering
+*.12:50 p.m. Literature, Ontology, Gene Network 
+*..2:00 p.m. Discovering Underlying Concepts with Tensor Factorization
 *  2:10 p.m. Learning COmplex Systems under Data Scarcity 
 
 *  2:20 p.m. Coffee Break
