@@ -9,12 +9,10 @@ aside: false
 
 ### Agenda
 
-*  9:30 a.m. Breakfast/Refreshment
+* <small> 9:30 a.m. Breakfast/Refreshment <small>
 
-* 10:00 a.m. Opening remarks - \n 
-<small> Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth </small>
+* <small>10:00 a.m. Opening remarks - Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>
 * 10:15 a.m. CHSP Challeneges 
->	Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth
 * 10:25 a.m. Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations
 * 10:35 a.m. Data sharing or Model Sharing?
 * 10:45 a.m. A Framework for Similarity-based Predictions
@@ -23,9 +21,13 @@ aside: false
 * 11:05 a.m. Coffee Break
 
 > 11:20 a.m. Depression Monitoring via Dynamic Vocal Biomarkers
+
 > 11:30 a.m. Deep Leanring Reasearch at Information Innvoation Lab
+
 > 11:40 a.m. Data Analysis at Texas A&M (DATA Lab) 
+
 > 11:50 a.m. Title TBD
+
 > 12:00 p.m. NLP Lab Introduction 
 
 * 12:10 p.m. Group Picture
