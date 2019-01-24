@@ -88,8 +88,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Home: /
   Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
+  #Blog: /blog/
+  #Categories: /categories/
   #Search: /search/
   #Fork Alembic: https://github.com/daviddarnes/alembic
 
