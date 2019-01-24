@@ -9,28 +9,22 @@ aside: false
 
 ### Agenda
 
-|<small> 9:30 a.m.</small>|<small>Breakfast/Refreshment</small>|
-
-|<small>10:00 a.m.</small>|<small>Opening remarks - Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>|
-|<small>10:15 a.m.</small>|<small>CHSP Challeneges</small>|
-|<small>10:25 a.m.</small>|<small>Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</small>|
-|<small>10:35 a.m.</small>|<small>Data sharing or Model Sharing?</small>|
-|<small>10:45 a.m.</small>|<small>A Framework for Similarity-based Predictions</small>|
-|<small>10:55 a.m.</small>|<small>Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</small>|
-
-|<small>11:05 a.m.</small>|<small>Coffee Break</small>|
-
-|<small>11:20 a.m.</small>|<small>Depression Monitoring via Dynamic Vocal Biomarkers</small>|
-|<small>11:30 a.m.</small>|<small>Deep Leanring Reasearch at Information Innvoation Lab</small>|
-|<small>11:40 a.m.</small>|<small>Data Analysis at Texas A&M (DATA Lab)</small>|
-|<small>11:50 a.m.</small>|<small>Title TBD</small>|
-|<small>12:00 p.m.</small>|<small>NLP Lab Introduction</small>| 
-
-|<small>12:10 p.m.</small>|<small>Group Picture</small>|
-
-|<small>12:20 p.m.</small>|<small>Lunch Break</small>|
-
-|<small> 1:30 p.m.</small>|<small>Practical Applications of Homomorphic Encryption</small>|
+|<small> 9:30 a.m.</small>|<small>Breakfast/Refreshment</small>| |
+|<small>10:00 a.m.</small>|<small>Opening remarks </small>|<small>Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>|
+|<small>10:15 a.m.</small>|<small>CHSP Challeneges</small>| |
+|<small>10:25 a.m.</small>|<small>Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</small>| |
+|<small>10:35 a.m.</small>|<small>Data sharing or Model Sharing?</small>| |
+|<small>10:45 a.m.</small>|<small>A Framework for Similarity-based Predictions</small>| |
+|<small>10:55 a.m.</small>|<small>Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</small>| |
+|<small>11:05 a.m.</small>|<small>Coffee Break</small>| |
+|<small>11:20 a.m.</small>|<small>Depression Monitoring via Dynamic Vocal Biomarkers</small>| |
+|<small>11:30 a.m.</small>|<small>Deep Leanring Reasearch at Information Innvoation Lab</small>| |
+|<small>11:40 a.m.</small>|<small>Data Analysis at Texas A&M (DATA Lab)</small>| |
+|<small>11:50 a.m.</small>|<small>Title TBD</small>| |
+|<small>12:00 p.m.</small>|<small>NLP Lab Introduction</small>| | 
+|<small>12:10 p.m.</small>|<small>Group Picture</small>| |
+|<small>12:20 p.m.</small>|<small>Lunch Break</small>| |
+|<small> 1:30 p.m.</small>|<small>Practical Applications of Homomorphic Encryption</small>| |
 
 * 12:40 p.m. An Information-Theoretic Approach to Data Clustering
 * 12:50 p.m. Literature, Ontology, Gene Network 
