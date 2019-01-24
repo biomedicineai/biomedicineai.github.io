@@ -1,13 +1,55 @@
 ---
-title: Elements
+title: Workshop-2019
 feature_text: |
-  A demo of Markdown and HTML includes
+  Agenda
 feature_image: "/assets/AIinPharma.jpg"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+aside: false
 ---
 
-# Heading 1
+### Workshop Agenda
+
+<small>
+*  9:30 a.m. Breakfast/Refreshment
+
+* 10:00 a.m. Opening remarks
+* 10:15 a.m. CHSP Challeneges 
+* 10:25 a.m. Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations
+* 10:35 a.m. Data sharing or Model Sharing?
+* 10:45 a.m. A Framework for Similarity-based Predictions
+* 10:55 a.m. Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis
+
+* 11:05 a.m. Coffee Break
+
+* 11:20 a.m. Depression Monitoring via Dynamic Vocal Biomarkers
+* 11:30 a.m. Deep Leanring Reasearch at Information Innvoation Lab
+* 11:40 a.m. Data Analysis at Texas A&M (DATA Lab) 
+* 11:50 a.m. Title TBD
+* 12:00 p.m. NLP Lab Introduction 
+
+* 12:10 p.m. Group Picture
+
+* 12:20 p.m. Lunch Break
+
+*  1:30 p.m. Practical Applications of Homomorphic Encryption
+*  1:40 p.m. An Information-Theoretic Approach to Data Clustering
+*  1:50 p.m. Literature, Ontology, Gene Network 
+*  2:00 p.m. Discovering Underlying Concepts with Tensor Factorization
+*  2:10 p.m. Learning COmplex Systems under Data Scarcity 
+
+*  2:20 p.m. Coffee Break
+
+*  2:35 p.m. Linear Optimization and Ranking Algorithms
+*  2:45 p.m  Metric Learning Approach for Representation Learning
+*  2:55 p.m. Title TBD
+
+*  3:05 p.m. Group Discussions
+
+*  4:00 p.m  Summarization Session
+
+*  5:30 p.m. Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098 
+
+</small>
 
 ## Heading 2
 
