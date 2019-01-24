@@ -7,12 +7,13 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
-### Workshop Agenda
+### Agenda
 
 <small>
 *  9:30 a.m. Breakfast/Refreshment
 
 * 10:00 a.m. Opening remarks
+	-Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth
 * 10:15 a.m. CHSP Challeneges 
 * 10:25 a.m. Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations
 * 10:35 a.m. Data sharing or Model Sharing?
@@ -48,7 +49,6 @@ aside: false
 *  4:00 p.m  Summarization Session
 
 *  5:30 p.m. Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098 
-
 </small>
 
 ## Heading 2
