@@ -30,33 +30,54 @@ aside: false
 
 -->
 
-* &nbsp; <small>9:30 a.m.</small><small>&nbsp; &nbsp; Breakfast/Refreshment</small>
-* <small>10:00 a.m.</small><small>&nbsp; &nbsp; Opening remarks</small><small>&nbsp; &nbsp; - Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>
-* <small>10:15 a.m.</small><small>&nbsp; &nbsp; CHSP Challeneges</small><small>&nbsp; &nbsp; - Dr.Xiaoqian JIang, SBMI, UTHealth</small>
-* <small>10:25 a.m.</small><small>&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</small><small>&nbsp; &nbsp; - Drs. Song(Stephen) Yi, UT Austin; Nidhi Sahni, UT MDACC</small>
-* <small>10:35 a.m.</small><small>&nbsp; &nbsp; Data sharing or Model Sharing?</small><small>&nbsp; &nbsp; - Dr. Degui Zhi, SBMI, UTHealth</small>
-* <small>10:45 a.m.</small><small>&nbsp; &nbsp; A Framework for Similarity-based Predictions</small><small>&nbsp; &nbsp; - Dr.Assaf Gottliebm. SBMI, UTHealth</small>
-* <small>10:55 a.m.</small><small>&nbsp; &nbsp; Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</small><small>&nbsp; &nbsp; - Dr. Byung-jun Yoon, Texas A&M University </small>
-* <small>11:05 a.m.</small><small>&nbsp; &nbsp; Coffee Break</small>
-* <small>11:20 a.m.</small><small>&nbsp; &nbsp; Depression Monitoring via Dynamic Vocal Biomarkers</small><small>&nbsp; &nbsp; - Dr. Ying Lin, University of Houston</small>
-* <small>11:30 a.m.</small><small>&nbsp; &nbsp; Deep Leanring Reasearch at Information Innvoation Lab</small><small>&nbsp; &nbsp; - Dr. Anxiao (Andrew) Jiang, Texas A&M University</small>
-* <small>11:40 a.m.</small><small>&nbsp; &nbsp; Data Analysis at Texas A&M (DATA Lab)</small><small>&nbsp; &nbsp; - Dr. Xia (Ben) Hu, Texas A&M University</small>
-* <small>11:50 a.m.</small><small>&nbsp; &nbsp; Title TBD</small><small>&nbsp; &nbsp; - Dr. Curtis Kennedy, Texas Children's Hospital</small>
-* <small>12:00 p.m.</small><small>&nbsp; &nbsp; NLP Lab Introduction</small><small>&nbsp; &nbsp; - Dr. Hua Xu, SBMI, UTHealth</small> 
-* <small>12:10 p.m.</small><small>&nbsp; &nbsp; Group Picture</small>
-* <small>12:20 p.m.</small><small>&nbsp; &nbsp; Lunch Break</small>
-* &nbsp; <small>1:30 p.m.</small><small>&nbsp; &nbsp; Practical Applications of Homomorphic Encryption</small><small>&nbsp; &nbsp; - Dr. Miram Kim, SBMI, UTHealth</small>
-* &nbsp; <small>1:40 p.m.</small><small>&nbsp; &nbsp; An Information-Theoretic Approach to Data Clustering&nbsp; &nbsp; - Dr. Tie Liu, Texas A&M Universityi</small>
-* &nbsp; <small>1:50 p.m.</small><small>&nbsp; &nbsp; Literature, Ontology, Gene Network&nbsp; &nbsp; - Dr. Jim Zheng, SBMI, UTHealth</small>
-* &nbsp; <small>2:00 p.m.</small><small>&nbsp; &nbsp; Discovering Underlying Concepts with Tensor Factorization&nbsp; &nbsp; - Dr. Yejin Kim, SBMI, UTHealth</small>
-* &nbsp; <small>2:10 p.m.</small><small>&nbsp; &nbsp; Learning COmplex Systems under Data Scarcity&nbsp; &nbsp; - Dr.Xiaoning Qian, Texas A&M UNiversity<small>
-* &nbsp; <small>2:20 p.m.</small><small>&nbsp; &nbsp; Coffee Break</small>
-* &nbsp; <small>2:35 p.m.</small><small>&nbsp; &nbsp; Linear Optimization and Ranking Algorithms&nbsp; &nbsp; - Dr. Chao Tian, Texas A&M University</small>
-* &nbsp; <small>2:45 p.m.</small><small>&nbsp; &nbsp; Metric Learning Approach for Representation Learning&nbsp; &nbsp; - Dr. Dongha Lee, SBMI, UTHealth</small>
-* &nbsp; <small>2:55 p.m.</small><small>&nbsp; &nbsp; Title TBD - Dr. Shuiwang Ji, Texas A&M University</small>
-* &nbsp; <small>3:05 p.m. &nbsp; &nbsp; Group Discussions</small>
-* &nbsp; <small>4:00 p.m  &nbsp; &nbsp;Summarization Session</small>
-* &nbsp; <small>5:30 p.m. &nbsp; &nbsp; Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098</small>
+* &nbsp; <small>9:30 a.m.<span style="color:wood">&nbsp; &nbsp; Breakfast/Refreshment</span></small>
+* <small>10:00 a.m.<span style="color:apricot">&nbsp; &nbsp; Opening remarks</span></small><small>&nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
+* <small>10:15 a.m.<span style="color:apricot">&nbsp; &nbsp; CHSP Challeneges</span></small><small>&nbsp; &nbsp; - [**Dr.Xiaoqian JIang**][XJ](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)*, SBMI, UTHealth*</small>
+* <small>10:25 a.m.<span style="color:apricot">&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</span></small><small>&nbsp; &nbsp; - [**Drs. Song(Stephen) Yi**][SY]*, UT Austin*; [**Dr.Nidhi Sahni**][NH]*, UT MDACC*</small>
+* <small>10:35 a.m.<span style="color:apricot">&nbsp; &nbsp; Data sharing or Model Sharing?</span></small><small>&nbsp; &nbsp; - [**Dr. Degui Zhi**][DZ]*, SBMI, UTHealth*</small>
+* <small>10:45 a.m.<span style="color:apricot">&nbsp; &nbsp; A Framework for Similarity-based Predictions</span></small><small>&nbsp; &nbsp; - [**Dr.Assaf Gottlieb**][AG]*, SBMI, UTHealth*</small>
+* <small>10:55 a.m.<span style="color:apricot">&nbsp; &nbsp; Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</span></small><small>&nbsp; &nbsp; - [**Dr. Byung-jun Yoon**][BJ]*, Texas A&M University*</small>
+* <small>11:05 a.m.&nbsp; &nbsp; Coffee Break</small>
+* <small>11:20 a.m.<span style="color:bronze">&nbsp; &nbsp; Depression Monitoring via Dynamic Vocal Biomarkers</span></small><small>&nbsp; &nbsp; - [**Dr. Ying Lin**][YL]*, University of Houston*</small>
+* <small>11:30 a.m.<span style="color:bronze">&nbsp; &nbsp; Deep Leanring Reasearch at Information Innvoation Lab</span></small><small>&nbsp; &nbsp; - [**Dr. Anxiao (Andrew) Jiang**][AJ]*, Texas A&M University*</small>
+* <small>11:40 a.m.<span style="color:bronze">&nbsp; &nbsp; Data Analysis at Texas A&M (DATA Lab)</span></small><small>&nbsp; &nbsp; - [**Dr. Xia (Ben) Hu**][XH]*, Texas A&M University*</small>
+* <small>11:50 a.m.<span style="color:bronze">&nbsp; &nbsp; Title TBD</span></small><small>&nbsp; &nbsp; - [**Dr. Curtis Kennedy**][CK]*, Texas Children's Hospital*</small>
+* <small>12:00 p.m.<span style="color:bronze">&nbsp; &nbsp; NLP Lab Introduction</span></small><small>&nbsp; &nbsp; - [**Dr. Hua Xu**][HX]*, SBMI, UTHealth*</small> 
+* <small>12:10 p.m.<span style="color:wood">&nbsp; &nbsp; Group Picture</span></small>
+* <small>12:20 p.m.<span style="color:wood">&nbsp; &nbsp; Lunch Break</span></small>
+* &nbsp; <small>1:30 p.m.<span style="color:chili">&nbsp; &nbsp; Practical Applications of Homomorphic Encryption</span></small><small>&nbsp; &nbsp; - [**Dr. Miram Kim**][MK]*, SBMI, UTHealth*</small>
+* &nbsp; <small>1:40 p.m.<span style="color:chili">&nbsp; &nbsp; An Information-Theoretic Approach to Data Clustering</span>&nbsp; &nbsp; - [**Dr. Tie Liu**][TL]*, Texas A&M University*</small>
+* &nbsp; <small>1:50 p.m.<span style="color:chili">&nbsp; &nbsp; Literature, Ontology, Gene Network</span>&nbsp; &nbsp; - [**Dr. Jim Zheng**][JMZ]*, SBMI, UTHealth*</small>
+* &nbsp; <small>2:00 p.m.<span style="color:chili">&nbsp; &nbsp; Discovering Underlying Concepts with Tensor Factorization</span>&nbsp; &nbsp; - [**Dr. Yejin Kim**][YK]*, SBMI, UTHealth*</small>
+* &nbsp; <small>2:10 p.m.<span style="color:chili">&nbsp; &nbsp; Learning COmplex Systems under Data Scarcity</span>&nbsp; &nbsp; - [**Dr.Xiaoning Qian**][XQ]*, Texas A&M UNiversity*<small>
+* &nbsp; <small>2:20 p.m.<span style="color:wood">&nbsp; &nbsp; Coffee Break</span></small>
+* &nbsp; <small>2:35 p.m.<span style="color:chili">&nbsp; &nbsp; Linear Optimization and Ranking Algorithms</span>&nbsp; &nbsp; - [**Dr. Chao Tian**][CT]*, Texas A&M University*</small>
+* &nbsp; <small>2:45 p.m.<span style="color:chili">&nbsp; &nbsp; Metric Learning Approach for Representation Learning</span>&nbsp; &nbsp; - [**Dr. Dongha Lee**][DL]*, SBMI, UTHealth*</small>
+* &nbsp; <small>2:55 p.m.<span style="color:chili">&nbsp; &nbsp; Title TBD</span>&nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
+* &nbsp; <small>3:05 p.m.<span style="color:chili">&nbsp; &nbsp; Group Discussions</span></small>
+* &nbsp; <small>4:00 p.m <span style="color:chili">&nbsp; &nbsp;Summarization Session</span></small>
+* &nbsp; <small>5:30 p.m.<span style="color:chili">&nbsp; &nbsp; Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098</span></small>
+
+[JZ]:https://sbmi.uth.edu/zhang/
+[XJ]:https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm
+[SY]:https://www.bme.utexas.edu/about-us/faculty-directory/yi
+[NS]:https://faculty.mdanderson.org/profiles/nidhi_sahni.html
+[DZ]:https://sbmi.uth.edu/faculty-and-staff/degui-zhi.htm
+[AG]:https://sbmi.uth.edu/faculty-and-staff/assaf-gottlieb.htm
+[BJ]:http://www.ece.tamu.edu/~bjyoon/
+[YL]:http://www.ie.uh.edu/faculty/lin
+[AJ]:http://faculty.cse.tamu.edu/ajiang/
+[XH]:http://faculty.cs.tamu.edu/xiahu/
+[CK]:https://www.texaschildrens.org/find-a-doctor/curtis-e-kennedy-md
+[HK]:https://sbmi.uth.edu/faculty-and-staff/hua-xu.htm
+[MK]:https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm
+[TL]:https://engineering.tamu.edu/electrical/profiles/tliu.html
+[JMZ]:https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm
+[YK]:https://sbmi.uth.edu/faculty-and-staff/yejin-kim.htm
+[XQ]:http://cbgse.tamu.edu/people/xiaoning-qian/
+[CT]:https://tiangroup.engr.tamu.edu/
+[DL]:https://sbmi.uth.edu/ccb/people/
+[SJ]:http://people.tamu.edu/~sji/
 
 ## Heading 2
 
