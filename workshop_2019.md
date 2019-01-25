@@ -30,10 +30,10 @@ aside: false
 
 -->
 
-* &nbsp; <small>9:30 a.m.<span style="color:wood">&nbsp; &nbsp; Breakfast/Refreshment</span></small>
+* &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment</span></small>
 * <small>10:00 a.m.<span style="color:apricot">&nbsp; &nbsp; Opening remarks</span></small><small>&nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
 * <small>10:15 a.m.<span style="color:apricot">&nbsp; &nbsp; CHSP Challeneges</span></small><small>&nbsp; &nbsp; - [**Dr.Xiaoqian JIang**][XJ](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)*, SBMI, UTHealth*</small>
-* <small>10:25 a.m.<span style="color:apricot">&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</span></small><small>&nbsp; &nbsp; - [**Drs. Song(Stephen) Yi**][SY]*, UT Austin*; [**Dr.Nidhi Sahni**][NH]*, UT MDACC*</small>
+* <small>10:25 a.m.<span style="color:apricot">&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</span></small><small>&nbsp; &nbsp; - [**Drs. Song(Stephen) Yi**][SY]*, UT Austin*; [**Dr.Nidhi Sahni**][NS]*, UT MDACC*</small>
 * <small>10:35 a.m.<span style="color:apricot">&nbsp; &nbsp; Data sharing or Model Sharing?</span></small><small>&nbsp; &nbsp; - [**Dr. Degui Zhi**][DZ]*, SBMI, UTHealth*</small>
 * <small>10:45 a.m.<span style="color:apricot">&nbsp; &nbsp; A Framework for Similarity-based Predictions</span></small><small>&nbsp; &nbsp; - [**Dr.Assaf Gottlieb**][AG]*, SBMI, UTHealth*</small>
 * <small>10:55 a.m.<span style="color:apricot">&nbsp; &nbsp; Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</span></small><small>&nbsp; &nbsp; - [**Dr. Byung-jun Yoon**][BJ]*, Texas A&M University*</small>
