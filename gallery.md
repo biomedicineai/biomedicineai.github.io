@@ -9,4 +9,4 @@ aside: false
 
 ### Workshop Snapshots
 
-{% include figure.html image="/gallery/2019/Grp.jpeg" alt="Group-2019" %}
+{% include figure.html image="/gallery/2019/Grp.JPG" alt="Group-2019" %}
