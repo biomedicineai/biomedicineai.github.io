@@ -8,22 +8,26 @@ aside: false
 ---
 
 ### Agenda
-|<small> 9:30 a.m.</small>|<small>Breakfast/Refreshment</small>|<small>Changes</small>|
-|<small>10:00 a.m.</small>|<small>Opening remarks </small>|<small>Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>|
-|<small>10:15 a.m.</small>|<small>CHSP Challeneges</small>|<small>Dr.Xiaoqian JIang, SBMI, UTHealth</small>|
-|<small>10:25 a.m.</small>|<small>Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</small>|<small>Drs. Song(Stephen) Yi, UT Austin; Nidhi Sahni, UT MDACC </small>|
-|<small>10:35 a.m.</small>|<small>Data sharing or Model Sharing?</small>|<small>Dr. Degui Zhi, SBMI, UTHealth</small>|
-|<small>10:45 a.m.</small>|<small>A Framework for Similarity-based Predictions</small>|<small>Dr.Assaf Gottliebm. SBMI, UTHealth</small>|
-|<small>10:55 a.m.</small>|<small>Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</small>|<small>Dr. Byung-jun Yoon, Texas A&M University</small>|
-|<small>11:05 a.m.</small>|<small>Coffee Break</small>|<small>    </small>|
-|<small>11:20 a.m.</small>|<small>Depression Monitoring via Dynamic Vocal Biomarkers</small>|<small>Dr. Ying Lin, University of Houston</small>|
-|<small>11:30 a.m.</small>|<small>Deep Leanring Reasearch at Information Innvoation Lab</small>|<small>Dr. Anxiao (Andrew) Jiang, Texas A&M University</small>|
-|<small>11:40 a.m.</small>|<small>Data Analysis at Texas A&M (DATA Lab)</small>|<small>Dr. Xia (Ben) Hu, Texas A&M University</small>|
-|<small>11:50 a.m.</small>|<small>Title TBD</small>|<small>Dr. Curtis Kennedy, Texas Children's Hospital</small>|
-|<small>12:00 p.m.</small>|<small>NLP Lab Introduction</small>|<small>Dr. Hua Xu, SBMI, UTHealth</small>| 
-|<small>12:10 p.m.</small>|<small>Group Picture</small>|<small>   </small>|
-|<small>12:20 p.m.</small>|<small>Lunch Break</small>|<small>    </small>|
-|<small> 1:30 p.m.</small>|<small>Practical Applications of Homomorphic Encryption</small>|<small>Dr. Miram Kim, SBMI, UTHealth</small>|
+
+
+|<small> 9:30 a.m.</small>|<small>Breakfast/Refreshment                                                 </small>|<small>Changes                                                                 </small>|
+|<small>10:00 a.m.</small>|<small>Opening remarks                                                       </small>|<small>Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>|
+|<small>10:15 a.m.</small>|<small>CHSP Challeneges                                                      </small>|<small>Dr.Xiaoqian JIang, SBMI, UTHealth                                       </small>|
+|<small>10:25 a.m.</small>|<small>Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</small>|<small>Drs. Song(Stephen) Yi, UT Austin; Nidhi Sahni, UT MDACC                 </small>|
+|<small>10:35 a.m.</small>|<small>Data sharing or Model Sharing?                                        </small>|<small>Dr. Degui Zhi, SBMI, UTHealth                                           </small>|
+|<small>10:45 a.m.</small>|<small>A Framework for Similarity-based Predictions                          </small>|<small>Dr.Assaf Gottliebm. SBMI, UTHealth                                      </small>|
+|<small>10:55 a.m.</small>|<small>Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</small>|<small>Dr. Byung-jun Yoon, Texas A&M University                   </small>|
+|<small>11:05 a.m.</small>|<small>Coffee Break                                                          </small>|<small>New                                                                     </small>|
+|<small>11:20 a.m.</small>|<small>Depression Monitoring via Dynamic Vocal Biomarkers                    </small>|<small>Dr. Ying Lin, University of Houston                                     </small>|
+|<small>11:30 a.m.</small>|<small>Deep Leanring Reasearch at Information Innvoation Lab                 </small>|<small>Dr. Anxiao (Andrew) Jiang, Texas A&M University                         </small>|
+|<small>11:40 a.m.</small>|<small>Data Analysis at Texas A&M (DATA Lab)                                 </small>|<small>Dr. Xia (Ben) Hu, Texas A&M University                                  </small>|
+|<small>11:50 a.m.</small>|<small>Title TBD                                                             </small>|<small>Dr. Curtis Kennedy, Texas Children's Hospital                           </small>|
+|<small>12:00 p.m.</small>|<small>NLP Lab Introduction                                                  </small>|<small>Dr. Hua Xu, SBMI, UTHealth                                              </small>| 
+|<small>12:10 p.m.</small>|<small>Group Picture                                                         </small>|<small>New                                                                     </small>|
+|<small>12:20 p.m.</small>|<small>Lunch Break                                                           </small>|<small>New                                                                     </small>|
+|<small> 1:30 p.m.</small>|<small>Practical Applications of Homomorphic Encryption                      </small>|<small>Dr. Miram Kim, SBMI, UTHealth                                           </small>|
+
+
 
 * 1:40 p.m. An Information-Theoretic Approach to Data Clustering - Dr. Tie Liu, Texas A&M University
 * 1:50 p.m. Literature, Ontology, Gene Network - Dr. Jim Zheng, SBMI, UTHealth
