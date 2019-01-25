@@ -30,13 +30,13 @@ aside: false
 
 -->
 
-* &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment</span></small>
-* <small>10:00 a.m.<span style="color:apricot">&nbsp; &nbsp; Opening remarks</span></small><small>&nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
-* <small>10:15 a.m.<span style="color:apricot">&nbsp; &nbsp; CHSP Challeneges</span></small><small>&nbsp; &nbsp; - [**Dr.Xiaoqian JIang**][XJ](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)*, SBMI, UTHealth*</small>
-* <small>10:25 a.m.<span style="color:apricot">&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</span></small><small>&nbsp; &nbsp; - [**Drs. Song(Stephen) Yi**][SY]*, UT Austin*; [**Dr.Nidhi Sahni**][NS]*, UT MDACC*</small>
-* <small>10:35 a.m.<span style="color:apricot">&nbsp; &nbsp; Data sharing or Model Sharing?</span></small><small>&nbsp; &nbsp; - [**Dr. Degui Zhi**][DZ]*, SBMI, UTHealth*</small>
-* <small>10:45 a.m.<span style="color:apricot">&nbsp; &nbsp; A Framework for Similarity-based Predictions</span></small><small>&nbsp; &nbsp; - [**Dr.Assaf Gottlieb**][AG]*, SBMI, UTHealth*</small>
-* <small>10:55 a.m.<span style="color:apricot">&nbsp; &nbsp; Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</span></small><small>&nbsp; &nbsp; - [**Dr. Byung-jun Yoon**][BJ]*, Texas A&M University*</small>
+* &nbsp; <small>9:30 a.m.<span style="color:Coral">&nbsp; &nbsp; Breakfast/Refreshment1</span></small>
+* <small>10:00 a.m.<span style="color:maroon">&nbsp; &nbsp; Opening remarks</span></small><small>&nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
+* <small>10:15 a.m.<span style="color:maroon">&nbsp; &nbsp; CHSP Challeneges</span></small><small>&nbsp; &nbsp; - [**Dr.Xiaoqian JIang**][XJ](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)*, SBMI, UTHealth*</small>
+* <small>10:25 a.m.<span style="color:maroon">&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</span></small><small>&nbsp; &nbsp; - [**Drs. Song(Stephen) Yi**][SY]*, UT Austin*; [**Dr.Nidhi Sahni**][NS]*, UT MDACC*</small>
+* <small>10:35 a.m.<span style="color:maroon">&nbsp; &nbsp; Data sharing or Model Sharing?</span></small><small>&nbsp; &nbsp; - [**Dr. Degui Zhi**][DZ]*, SBMI, UTHealth*</small>
+* <small>10:45 a.m.<span style="color:maroon">&nbsp; &nbsp; A Framework for Similarity-based Predictions</span></small><small>&nbsp; &nbsp; - [**Dr.Assaf Gottlieb**][AG]*, SBMI, UTHealth*</small>
+* <small>10:55 a.m.<span style="color:maroon">&nbsp; &nbsp; Research Overview: Network-Based & Baseyian Approaches for Biomedical Data Analysis</span></small><small>&nbsp; &nbsp; - [**Dr. Byung-jun Yoon**][BJ]*, Texas A&M University*</small>
 * <small>11:05 a.m.&nbsp; &nbsp; Coffee Break</small>
 * <small>11:20 a.m.<span style="color:bronze">&nbsp; &nbsp; Depression Monitoring via Dynamic Vocal Biomarkers</span></small><small>&nbsp; &nbsp; - [**Dr. Ying Lin**][YL]*, University of Houston*</small>
 * <small>11:30 a.m.<span style="color:bronze">&nbsp; &nbsp; Deep Leanring Reasearch at Information Innvoation Lab</span></small><small>&nbsp; &nbsp; - [**Dr. Anxiao (Andrew) Jiang**][AJ]*, Texas A&M University*</small>
