@@ -30,7 +30,7 @@ aside: false
 
 -->
 
-* &nbsp; </small>9:30 a.m.</small><small>&nbsp; &nbsp; Breakfast/Refreshment</small>
+* &nbsp; <small>9:30 a.m.</small><small>&nbsp; &nbsp; Breakfast/Refreshment</small>
 * <small>10:00 a.m.</small><small>&nbsp; &nbsp; Opening remarks</small><small>&nbsp; &nbsp; - Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>
 * <small>10:15 a.m.</small><small>&nbsp; &nbsp; CHSP Challeneges</small><small>&nbsp; &nbsp; - Dr.Xiaoqian JIang, SBMI, UTHealth</small>
 * <small>10:25 a.m.</small><small>&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</small><small>&nbsp; &nbsp; - Drs. Song(Stephen) Yi, UT Austin; Nidhi Sahni, UT MDACC</small>
@@ -45,15 +45,15 @@ aside: false
 * <small>12:00 p.m.</small><small>&nbsp; &nbsp; NLP Lab Introduction</small><small>&nbsp; &nbsp; - Dr. Hua Xu, SBMI, UTHealth</small> 
 * <small>12:10 p.m.</small><small>&nbsp; &nbsp; Group Picture</small>
 * <small>12:20 p.m.</small><small>&nbsp; &nbsp; Lunch Break</small>
-* <small> 1:30 p.m.</small><small>&nbsp; &nbsp; Practical Applications of Homomorphic Encryption</small><small>&nbsp; &nbsp; - Dr. Miram Kim, SBMI, UTHealth</small>
+* &nbsp; <small>1:30 p.m.</small><small>&nbsp; &nbsp; Practical Applications of Homomorphic Encryption</small><small>&nbsp; &nbsp; - Dr. Miram Kim, SBMI, UTHealth</small>
 * &nbsp; <small>1:40 p.m.</small><small>&nbsp; &nbsp; An Information-Theoretic Approach to Data Clustering&nbsp; &nbsp; - Dr. Tie Liu, Texas A&M Universityi</small>
 * &nbsp; <small>1:50 p.m.</small><small>&nbsp; &nbsp; Literature, Ontology, Gene Network&nbsp; &nbsp; - Dr. Jim Zheng, SBMI, UTHealth</small>
 * &nbsp; <small>2:00 p.m.</small><small>&nbsp; &nbsp; Discovering Underlying Concepts with Tensor Factorization&nbsp; &nbsp; - Dr. Yejin Kim, SBMI, UTHealth</small>
 * &nbsp; <small>2:10 p.m.</small><small>&nbsp; &nbsp; Learning COmplex Systems under Data Scarcity&nbsp; &nbsp; - Dr.Xiaoning Qian, Texas A&M UNiversity<small>
 * &nbsp; <small>2:20 p.m.</small><small>&nbsp; &nbsp; Coffee Break</small>
-* &nbsp; <small>2:35 p.m.</small> Linear Optimization and Ranking Algorithms&nbsp; &nbsp; - Dr. Chao Tian, Texas A&M University</small>
-* &nbsp; <small>2:45 p.m.</small>  Metric Learning Approach for Representation Learning&nbsp; &nbsp; - Dr. Dongha Lee, SBMI, UTHealth</small>
-* &nbsp; <small>2:55 p.m.</small> Title TBD - Dr. Shuiwang Ji, Texas A&M University</small>
+* &nbsp; <small>2:35 p.m.</small><small>&nbsp; &nbsp; Linear Optimization and Ranking Algorithms&nbsp; &nbsp; - Dr. Chao Tian, Texas A&M University</small>
+* &nbsp; <small>2:45 p.m.</small><small>&nbsp; &nbsp; Metric Learning Approach for Representation Learning&nbsp; &nbsp; - Dr. Dongha Lee, SBMI, UTHealth</small>
+* &nbsp; <small>2:55 p.m.</small><small>&nbsp; &nbsp; Title TBD - Dr. Shuiwang Ji, Texas A&M University</small>
 * &nbsp; <small>3:05 p.m. &nbsp; &nbsp; Group Discussions</small>
 * &nbsp; <small>4:00 p.m  &nbsp; &nbsp;Summarization Session</small>
 * &nbsp; <small>5:30 p.m. &nbsp; &nbsp; Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098</small>
