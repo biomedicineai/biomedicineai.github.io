@@ -8,7 +8,7 @@ aside: false
 ---
 
 ### Agenda
-
+|--------------------------|-----------------------------------|------------------------------------|
 |<small> 9:30 a.m.</small>|<small>Breakfast/Refreshment</small>| |
 |<small>10:00 a.m.</small>|<small>Opening remarks </small>|<small>Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>|
 |<small>10:15 a.m.</small>|<small>CHSP Challeneges</small>| |
