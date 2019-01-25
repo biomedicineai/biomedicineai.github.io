@@ -9,7 +9,7 @@ aside: false
 
 ### Agenda
 
-
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |   |   |
 |<small> 9:30 a.m.</small>|<small>Breakfast/Refreshment                                                 </small>|<small>Changes                                                                 </small>|
 |<small>10:00 a.m.</small>|<small>Opening remarks                                                       </small>|<small>Dr.Jiajie Zhang, Dean, School of Biomedical Informatics (SBMI), UTHealth</small>|
 |<small>10:15 a.m.</small>|<small>CHSP Challeneges                                                      </small>|<small>Dr.Xiaoqian JIang, SBMI, UTHealth                                       </small>|
@@ -29,14 +29,14 @@ aside: false
 
 
 
-* 1:40 p.m. An Information-Theoretic Approach to Data Clustering - Dr. Tie Liu, Texas A&M University
-* 1:50 p.m. Literature, Ontology, Gene Network - Dr. Jim Zheng, SBMI, UTHealth
-* 2:00 p.m. Discovering Underlying Concepts with Tensor Factorization - Dr. Yejin Kim, SBMI, UTHealth
-* 2:10 p.m. Learning COmplex Systems under Data Scarcity - Dr.Xiaoning Qian, Texas A&M UNiversity
-* 2:20 p.m. Coffee Break
-* 2:35 p.m. Linear Optimization and Ranking Algorithms - Dr. Chao Tian, Texas A&M University
-* 2:45 p.m  Metric Learning Approach for Representation Learning - Dr. Dongha Lee, SBMI, UTHealth
-* 2:55 p.m. Title TBD - Dr. Shuiwang Ji, Texas A&M University
+* 12:40 p.m. An Information-Theoretic Approach to Data Clustering - Dr. Tie Liu, Texas A&M University
+* &nbsp; 1:50 p.m. Literature, Ontology, Gene Network - Dr. Jim Zheng, SBMI, UTHealth
+* &nbsp; 2:00 p.m. Discovering Underlying Concepts with Tensor Factorization - Dr. Yejin Kim, SBMI, UTHealth
+* &nbsp; 2:10 p.m. Learning COmplex Systems under Data Scarcity - Dr.Xiaoning Qian, Texas A&M UNiversity
+* &nbsp; 2:20 p.m. Coffee Break
+* &nbsp; 2:35 p.m. Linear Optimization and Ranking Algorithms - Dr. Chao Tian, Texas A&M University
+* &nbsp; 2:45 p.m  Metric Learning Approach for Representation Learning - Dr. Dongha Lee, SBMI, UTHealth
+* &nbsp; 2:55 p.m. Title TBD - Dr. Shuiwang Ji, Texas A&M University
 
 *  3:05 p.m. Group Discussions
 
