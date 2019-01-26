@@ -1,14 +1,12 @@
 ---
-title: Workshop-2019
+title: Agenda
 feature_text: |
-  # <span style="color:white">Hammer and Nails</span> 
-  ## <span style="color:white">Workshop-2019</span>
+  ## <span style="color:white">HAMMER AND NAILS</span> 
+  # <span style="color:white">WORKSHOP-2019</span> 
 feature_image: "/assets/AIinPharma.jpg"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Agenda"
 aside: false
 ---
-
-### Agenda
 
 <!--
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |   |   |
