@@ -1,8 +1,8 @@
 ---
 title: Gallery
 feature_text: |
-  # Gallery
-feature_image: "/assets/AIinPharma.jpg"
+  <span style="color:white"> # Gallery </span>
+feature_image: "/gallery/2019/Grp.JPG"
 excerpt: "Gallery"
 aside: false
 ---

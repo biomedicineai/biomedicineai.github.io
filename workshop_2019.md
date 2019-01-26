@@ -1,8 +1,8 @@
 ---
 title: Workshop-2019
 feature_text: |
-  # Hammer and Nails 
-  ## Workshop-2019
+  <span style="color:white"># Hammer and Nails</span> 
+  <span style="color:white">## Workshop-2019</span>
 feature_image: "/assets/AIinPharma.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
@@ -81,5 +81,5 @@ aside: false
 [SJ]:http://people.tamu.edu/~sji/
 
 #### Map to Kata Robata
-{% include map.html id="!1m18!1m12!1m3!1d3464.5224993642296!2d-95.4196259721686!3d29.733587968388218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c0f233eb408f%3A0xabdf876a640e519a!2sKata+Robata!5e0!3m2!1sen!2sus!4v1548450072002" title=" Kata Robata" %}
+{% include map.html id="1Venan2EysZUEO4csuXUxfmRoZ2OVMcd7" title="Kata Robata" %}
 
