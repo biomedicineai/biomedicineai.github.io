@@ -9,7 +9,7 @@ excerpt: "The Workshop on The Rising of Biomedical Information: Hammers and Nail
 
 The Workshop on The Rising of Biomedical Information: Hammers and Nails brings together experts in biomedicine and AI for research collaboration.
 
-{% include figure.html image="/assests/Houston-event-2019.png" alt="Workshop-2019" %}
+{% include figure.html image="/assets/Houston-event-2019.png" alt="Workshop-2019" %}
 
 ### DATE and VENUE
 
