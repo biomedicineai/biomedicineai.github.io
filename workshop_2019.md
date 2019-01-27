@@ -32,10 +32,10 @@ aside: false
 * &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment1</span></small>
 * <small>10:00 a.m.<span style="color:maroon">&nbsp; &nbsp; Opening remarks</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
 * <small>10:15 a.m.<span style="color:maroon">&nbsp; &nbsp; CHSP Challeneges</span></small>  
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Xiaoqian JIang**][XJ](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)*, SBMI, UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Xiaoqian JIang**][XJ]*, SBMI, UTHealth*</small>
 * <small>10:25 a.m.<span style="color:maroon">&nbsp; &nbsp; Biomedical Challenege: Driver Disease Mutstaions and Drug Combinations</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Drs. Song(Stephen) Yi**][SY]*, UT Austin*; [**Dr.Nidhi Sahni**][NS]*, UT MDACC*</small>
@@ -52,7 +52,9 @@ aside: false
 * <small>11:20 a.m.<span style="color:maroon">&nbsp; &nbsp; Depression Monitoring via Dynamic Vocal Biomarkers</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Ying Lin**][YL]*, University of Houston*</small>
-* <small>11:30 a.m.<span style="color:maroon">&nbsp; &nbsp; Deep Leanring Reasearch at Information Innvoation Lab</span></small><small>&nbsp; &nbsp; - [**Dr. Anxiao (Andrew) Jiang**][AJ]*, Texas A&M University*</small>
+* <small>11:30 a.m.<span style="color:maroon">&nbsp; &nbsp; Deep Leanring Reasearch at Information Innvoation Lab</span></small> 
+
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Anxiao (Andrew) Jiang**][AJ]*, Texas A&M University*</small>
 * <small>11:40 a.m.<span style="color:maroon">&nbsp; &nbsp; Data Analysis at Texas A&M (DATA Lab)</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Xia (Ben) Hu**][XH]*, Texas A&M University*</small>
