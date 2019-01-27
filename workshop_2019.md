@@ -104,9 +104,9 @@ aside: false
 [BJ]:http://www.ece.tamu.edu/~bjyoon/
 [YL]:http://www.ie.uh.edu/faculty/lin
 [AJ]:http://faculty.cse.tamu.edu/ajiang/
-[HX]:http://faculty.cs.tamu.edu/xiahu/
+[XH]:http://faculty.cs.tamu.edu/xiahu/
 [CK]:https://www.texaschildrens.org/find-a-doctor/curtis-e-kennedy-md
-[HK]:https://sbmi.uth.edu/faculty-and-staff/hua-xu.htm
+[HX]:https://sbmi.uth.edu/faculty-and-staff/hua-xu.htm
 [MK]:https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm
 [TL]:https://engineering.tamu.edu/electrical/profiles/tliu.html
 [JMZ]:https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm
