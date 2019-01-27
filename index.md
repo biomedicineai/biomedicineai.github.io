@@ -11,6 +11,8 @@ The Workshop on The Rising of Biomedical Information: Hammers and Nails brings t
 
 ### DATE and VENUE
 
+{% include figure.html image="/assests/Houston\_event\_2019.png" alt="Group-2019" %}
+
 <span style="color:maroon">Date : </span> **Friday, January 18, 2019**  
 
 <span style="color:maroon">Venue : </span> 7000 Fannin St., School of Biomedical Informatics (SBMI) New Building Exapansion, Galveston Room E.620,  
