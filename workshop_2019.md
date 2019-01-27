@@ -32,7 +32,7 @@ aside: false
 * &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment1</span></small>
 * <small>10:00 a.m.<span style="color:maroon">&nbsp; &nbsp; Opening remarks</span></small> 
 
-  		<small> \- [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
+  <small>                - [**Dr.Jiajie Zhang**][JZ]*, Dean, School of Biomedical Informatics (SBMI), UTHealth*</small>
 * <small>10:15 a.m.<span style="color:maroon">&nbsp; &nbsp; CHSP Challeneges</span></small>  
 
   		<small> \- [**Dr.Xiaoqian JIang**][XJ](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)*, SBMI, UTHealth*</small>
