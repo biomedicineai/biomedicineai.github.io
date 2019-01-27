@@ -60,37 +60,37 @@ aside: false
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Xia (Ben) Hu**][XH]*, Texas A&M University*</small>
 * <small>11:50 a.m.<span style="color:maroon">&nbsp; &nbsp; Title TBD</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Curtis Kennedy**][CK]*, Texas Children's Hospital*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Curtis Kennedy**][CK]*, Texas Children's Hospital*</small>
 * <small>12:00 p.m.<span style="color:maroon">&nbsp; &nbsp; NLP Lab Introduction</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Hua Xu**][HX]*, SBMI, UTHealth*</small> 
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Hua Xu**][HX]*, SBMI, UTHealth*</small> 
 * <small>12:10 p.m.<span style="color:red">&nbsp; &nbsp; Group Picture</span></small>
 * <small>12:20 p.m.<span style="color:red">&nbsp; &nbsp; Lunch Break</span></small>
 * &nbsp; <small>1:30 p.m.<span style="color:maroon">&nbsp; &nbsp; Practical Applications of Homomorphic Encryption</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Miram Kim**][MK]*, SBMI, UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Miram Kim**][MK]*, SBMI, UTHealth*</small>
 * &nbsp; <small>1:40 p.m.<span style="color:maroon">&nbsp; &nbsp; An Information-Theoretic Approach to Data Clustering</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Tie Liu**][TL]*, Texas A&M University*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Tie Liu**][TL]*, Texas A&M University*</small>
 * &nbsp; <small>1:50 p.m.<span style="color:maroon">&nbsp; &nbsp; Literature, Ontology, Gene Network</span></small>
   
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Jim Zheng**][JMZ]*, SBMI, UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Jim Zheng**][JMZ]*, SBMI, UTHealth*</small>
 * &nbsp; <small>2:00 p.m.<span style="color:maroon">&nbsp; &nbsp; Discovering Underlying Concepts with Tensor Factorization</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Yejin Kim**][YK]*, SBMI, UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Yejin Kim**][YK]*, SBMI, UTHealth*</small>
 * &nbsp; <small>2:10 p.m.<span style="color:maroon">&nbsp; &nbsp; Learning COmplex Systems under Data Scarcity</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Xiaoning Qian**][XQ]*, Texas A&M UNiversity*<small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Xiaoning Qian**][XQ]*, Texas A&M UNiversity*<small>
 * &nbsp; <small>2:20 p.m.<span style="color:red">&nbsp; &nbsp; Coffee Break</span></small>
 * &nbsp; <small>2:35 p.m.<span style="color:maroon">&nbsp; &nbsp; Linear Optimization and Ranking Algorithms</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Chao Tian**][CT]*, Texas A&M University*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Chao Tian**][CT]*, Texas A&M University*</small>
 * &nbsp; <small>2:45 p.m.<span style="color:maroon">&nbsp; &nbsp; Metric Learning Approach for Representation Learning</span></small> 
   
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Dongha Lee**][DL]*, SBMI, UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Dongha Lee**][DL]*, SBMI, UTHealth*</small>
 * &nbsp; <small>2:55 p.m.<span style="color:maroon">&nbsp; &nbsp; Title TBD</span></small> 
 
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
 * &nbsp; <small>3:05 p.m.<span style="color:maroon">&nbsp; &nbsp; Group Discussions</span></small>
 * &nbsp; <small>4:00 p.m <span style="color:maroon">&nbsp; &nbsp;Summarization Session</span></small>
 * &nbsp; <small>5:30 p.m.<span style="color:maroon">&nbsp; &nbsp; Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098</span></small>
@@ -104,7 +104,7 @@ aside: false
 [BJ]:http://www.ece.tamu.edu/~bjyoon/
 [YL]:http://www.ie.uh.edu/faculty/lin
 [AJ]:http://faculty.cse.tamu.edu/ajiang/
-[XH]:http://faculty.cs.tamu.edu/xiahu/
+[HX]:http://faculty.cs.tamu.edu/xiahu/
 [CK]:https://www.texaschildrens.org/find-a-doctor/curtis-e-kennedy-md
 [HK]:https://sbmi.uth.edu/faculty-and-staff/hua-xu.htm
 [MK]:https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm
