@@ -3,7 +3,7 @@ title: Agenda
 feature_text: |
   ## <span style="color:white">HAMMER AND NAILS</span> 
   # <span style="color:white">WORKSHOP-2019</span> 
-feature_image: "/assets/AIinPharma.jpg"
+feature_image: "/assets/AI-B.jpg"
 excerpt: "Agenda"
 aside: false
 ---
