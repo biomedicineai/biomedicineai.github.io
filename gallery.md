@@ -1,5 +1,5 @@
 ---
-title: Workshop Sanpshots 
+title: Workshop Snapshots 
 feature_text: |
   # <span style="color:white"> GALLERY </span>
 feature_image: "/gallery/2019/Grp.JPG"
