@@ -3,7 +3,7 @@ title: Agenda
 feature_text: |
   ## <span style="color:white">HAMMER AND NAILS</span> 
   # <span style="color:white">WORKSHOP-2019</span> 
-feature_image: "/assets/AI-B.jpg"
+feature_image: "/assets/AI-Whirl.jpeg"
 excerpt: "Agenda"
 aside: false
 ---
@@ -29,7 +29,7 @@ aside: false
 
 -->
 
-* &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment1</span></small>
+* &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment</span></small>
 * <small>10:00 a.m.<span style="color:maroon">&nbsp; &nbsp; Opening remarks</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, SBMI, UTHealth*</small>
