@@ -4,7 +4,7 @@ feature_text: |
   ## THE RISING OF BIOMEDICAL INFORMATICS
   # HAMMER AND NAILS
 feature_image: "/assets/AI-Med.jpg"
-asidetrue: true
+asideimage: true
 excerpt: "The Workshop on The Rising of Biomedical Information: Hammers and Nails brings together experts in biomedicine and AI for research collaboration."
 ---
 
