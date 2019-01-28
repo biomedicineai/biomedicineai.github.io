@@ -58,7 +58,7 @@ aside: false
 * <small>11:40 a.m.<span style="color:maroon">&nbsp; &nbsp; Data Analysis at Texas A&M (DATA Lab)</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Xia (Ben) Hu**][XH]*, Texas A&M University*</small>
-* <small>11:50 a.m.<span style="color:maroon">&nbsp; &nbsp; Title TBD</span></small> 
+* <small>11:50 a.m.<span style="color:maroon">&nbsp; &nbsp; Opportunities and challenges in pediatric ICU</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Curtis Kennedy**][CK]*, Texas Children's Hospital*</small>
 * <small>12:00 p.m.<span style="color:maroon">&nbsp; &nbsp; NLP Lab Introduction</span></small> 
@@ -88,7 +88,7 @@ aside: false
 * &nbsp; <small>2:45 p.m.<span style="color:maroon">&nbsp; &nbsp; Metric Learning Approach for Representation Learning</span></small> 
   
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Dongha Lee**][DL]*, SBMI, UTHealth*</small>
-* &nbsp; <small>2:55 p.m.<span style="color:maroon">&nbsp; &nbsp; Title TBD</span></small> 
+* &nbsp; <small>2:55 p.m.<span style="color:maroon">&nbsp; &nbsp; Advanced graph convolution networks</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
 * &nbsp; <small>3:05 p.m.<span style="color:maroon">&nbsp; &nbsp; Group Discussions</span></small>
