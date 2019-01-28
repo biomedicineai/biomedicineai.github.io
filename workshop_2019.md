@@ -1,7 +1,7 @@
 ---
 title: Agenda
 feature_text: |
-  ## <span style="color:white">HAMMER AND NAILS</span> 
+  ## <span style="color:white">THW RISING OF BIOMEDICAL INFORMATICS</span> 
   # <span style="color:white">WORKSHOP-2019</span> 
 feature_image: "/assets/AI-Whirl.jpeg"
 excerpt: "Agenda"
