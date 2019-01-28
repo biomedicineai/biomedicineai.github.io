@@ -93,7 +93,7 @@ aside: false
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
 * &nbsp; <small>3:05 p.m.<span style="color:maroon">&nbsp; &nbsp; Group Discussions</span></small>
 * &nbsp; <small>4:00 p.m <span style="color:maroon">&nbsp; &nbsp;Summarization Session</span></small>
-* &nbsp; <small>5:30 p.m.<span style="color:maroon">&nbsp; &nbsp; Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098</span></small>
+<!-- * &nbsp; <small>5:30 p.m.<span style="color:maroon">&nbsp; &nbsp; Dinner at Kata Robata, 3600 Kirby Dr.#H, Houston, TX 77098</span></small> -->
 
 [JZ]:https://sbmi.uth.edu/zhang/
 [XJ]:https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm
@@ -116,6 +116,6 @@ aside: false
 [DL]:https://sbmi.uth.edu/ccb/people/
 [SJ]:http://people.tamu.edu/~sji/
 
-**Map to Kata Robata**
-{% include map.html id="1Venan2EysZUEO4csuXUxfmRoZ2OVMcd7" title="Kata Robata" %}
+<!-- **Map to Kata Robata**
+{% include map.html id="1Venan2EysZUEO4csuXUxfmRoZ2OVMcd7" title="Kata Robata" %} -->
 
