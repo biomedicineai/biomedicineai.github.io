@@ -58,7 +58,7 @@ aside: false
 * <small>11:40 a.m.<span style="color:maroon">&nbsp; &nbsp; Data Analysis at Texas A&M (DATA Lab)</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Xia (Ben) Hu**][XH]*, Texas A&M University*</small>
-* <small>11:50 a.m.<span style="color:maroon">&nbsp; &nbsp; Opportunities and challenges in pediatric ICU</span></small> 
+* <small>11:50 a.m.<span style="color:maroon">&nbsp; &nbsp; Opportunities and Challenges in Pediatric ICU</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Curtis Kennedy**][CK]*, Texas Children's Hospital*</small>
 * <small>12:00 p.m.<span style="color:maroon">&nbsp; &nbsp; NLP Lab Introduction</span></small> 
@@ -78,7 +78,7 @@ aside: false
 * &nbsp; <small>2:00 p.m.<span style="color:maroon">&nbsp; &nbsp; Discovering Underlying Concepts with Tensor Factorization</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Yejin Kim**][YK]*, SBMI, UTHealth*</small>
-* &nbsp; <small>2:10 p.m.<span style="color:maroon">&nbsp; &nbsp; Learning COmplex Systems under Data Scarcity</span></small> 
+* &nbsp; <small>2:10 p.m.<span style="color:maroon">&nbsp; &nbsp; Learning Complex Systems under Data Scarcity</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Xiaoning Qian**][XQ]*, Texas A&M UNiversity*<small>
 * &nbsp; <small>2:20 p.m.<span style="color:red">&nbsp; &nbsp; Coffee Break</span></small>
@@ -88,7 +88,7 @@ aside: false
 * &nbsp; <small>2:45 p.m.<span style="color:maroon">&nbsp; &nbsp; Metric Learning Approach for Representation Learning</span></small> 
   
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Dongha Lee**][DL]*, SBMI, UTHealth*</small>
-* &nbsp; <small>2:55 p.m.<span style="color:maroon">&nbsp; &nbsp; Advanced graph convolution networks</span></small> 
+* &nbsp; <small>2:55 p.m.<span style="color:maroon">&nbsp; &nbsp; Advanced Graph Convolution Networks</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
 * &nbsp; <small>3:05 p.m.<span style="color:maroon">&nbsp; &nbsp; Group Discussions</span></small>

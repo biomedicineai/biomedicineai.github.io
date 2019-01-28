@@ -1,5 +1,5 @@
 ---
-title: # About HAMMER and NAILS
+title: About HAMMER and NAILS
 feature_text: |
   ##### THE RISING OF BIOMEDICAL INFORMATICS
   ## HAMMER AND NAILS
