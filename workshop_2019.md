@@ -30,7 +30,7 @@ aside: false
 -->
 
 * &nbsp; <small>9:30 a.m.<span style="color:red">&nbsp; &nbsp; Breakfast/Refreshment</span></small>
-* <small>10:00 a.m.<span style="color:maroon">&nbsp; &nbsp; Opening remarks</span></small> 
+* <small>10:00 a.m.<span style="color:maroon">&nbsp; &nbsp; Opening Remarks</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr.Jiajie Zhang**][JZ]*, Dean, SBMI, UTHealth*</small>
 * <small>10:15 a.m.<span style="color:maroon">&nbsp; &nbsp; CHSP Challeneges</span></small>  
