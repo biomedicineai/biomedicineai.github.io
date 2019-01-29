@@ -12,7 +12,7 @@ The workshop series aim at bridging real world biomedical challenges with state-
 
 <!-- {% include figure.html image="/assets/Houston-event-2019.png" alt="Workshop-2019" %} -->
 
-### DATE and VENUE
+### Date and Venue
 
 
 <span style="color:maroon">Date : </span> **Friday, January 18, 2019**  
