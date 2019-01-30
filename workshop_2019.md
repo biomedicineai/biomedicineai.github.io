@@ -1,7 +1,7 @@
 ---
 title: Agenda
 feature_text: |
-  ## <span style="color:white">THW RISING OF BIOMEDICAL INFORMATICS</span> 
+  ## <span style="color:white">THE RISING OF BIOMEDICAL INFORMATICS</span> 
   # <span style="color:white">WORKSHOP-2019</span> 
 feature_image: "/assets/AI-Whirl.jpeg"
 excerpt: "Agenda"
@@ -87,7 +87,7 @@ aside: false
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Chao Tian**][CT]*, Texas A&M University*</small>
 * &nbsp; <small>2:45 p.m.<span style="color:maroon">&nbsp; &nbsp; Metric Learning Approach for Representation Learning</span></small> 
   
-  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Dongha Lee**][DL]*, SBMI, UTHealth*</small>
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Mr. Dongha Lee, M.S.**][DL]*, SBMI, UTHealth*</small>
 * &nbsp; <small>2:55 p.m.<span style="color:maroon">&nbsp; &nbsp; Advanced Graph Convolution Networks</span></small> 
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Shuiwang Ji**][SJ]*, Texas A&M University*</small>
