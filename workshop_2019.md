@@ -116,6 +116,15 @@ aside: false
 [DL]:https://sbmi.uth.edu/ccb/people/
 [SJ]:http://people.tamu.edu/~sji/
 
+
+<h2>More Talks</h2>
+* <small><span style="color:maroon" href="https://github.com/rgsl888/data_collection">&nbsp; &nbsp; In Silico Design and Experimental Validation of Combination Therapy for Pancreatic Cancer</span></small>  
+
+  <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Aniruddha Datta**][AD]*, Texas A&M University*</small>
+
+
+[AD]:http://cbgse.tamu.edu/people/datta-aniruddha/
+
 <!-- **Map to Kata Robata**
 {% include map.html id="1Venan2EysZUEO4csuXUxfmRoZ2OVMcd7" title="Kata Robata" %} -->
 
