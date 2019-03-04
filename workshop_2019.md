@@ -118,7 +118,7 @@ aside: false
 
 
 <h2>More Talks</h2>
-* <small><span style="color:maroon" href="https://github.com/rgsl888/data_collection">&nbsp; &nbsp; In Silico Design and Experimental Validation of Combination Therapy for Pancreatic Cancer</span></small>  
+* <small><span style="color:maroon">&nbsp; &nbsp; In Silico Design and Experimental Validation of Combination Therapy for Pancreatic Cancer : <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQp-6OJtIF5anws0CLNw3PVfbEwtBIl30z3tpPILZ6NbRlDA/viewform?usp=sf_link">PPT</a></span></small>  
 
   <small>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Dr. Aniruddha Datta**][AD]*, Texas A&M University*</small>
 
